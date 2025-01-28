@@ -214,6 +214,7 @@ a {
   text-align: center;
   font-size: 2rem;
   margin-bottom: 3rem;
+  border-bottom: 2px solid #175161ec;
 }
 
 .bg-gray {
